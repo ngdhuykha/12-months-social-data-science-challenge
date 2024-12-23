@@ -14,8 +14,7 @@ My goals were just SMAR! It lacks one critical component - Time-bound. Without s
 This is the roadmap I created myself, based on the course structure of the referenced courses/programs. 
 https://six-tie-35d.notion.site/163d0608fcfd817e9982c045fb66c6e7?v=163d0608fcfd81f7b1dc000ce611a3aa
 
-## Ground rules
-Note to self (some ground rules):
+## Note to self (some ground rules)
 1. Time management is key
 2. Consistency is key
 3. Show, don't tell
